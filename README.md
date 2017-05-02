@@ -1,0 +1,3 @@
+# pioneer_zed
+这是一个用先锋机器人P3-DX和双目摄像头zed做的ORB_SLAM和标签视觉伺服算法的ros软件包
+这个软件包用到了ORB_SLAM，VISP，和tf
